@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+*.cbp
+*.depend
+*_log.html
+
+build/*
+mods/*
+modlist.json
